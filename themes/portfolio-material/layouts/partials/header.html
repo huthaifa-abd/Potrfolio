@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{ partial "meta.html" . }}
+  <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
+  {{ block "meta" . }}{{ end }}
+
+  <!-- CSS  -->
+  <link href="../../min/plugin-min.css" type="text/css" rel="stylesheet">
+  <link href="../../min/custom-min.css" type="text/css" rel="stylesheet" >
+</head>
+<body id="top" class="scrollspy">
+
+  <!--Navigation-->
+  <div class="navbar-fixed">
+    <nav id="nav_f" class="default_color" role="navigation">
+      <div class="container">
+        <div class="nav-wrapper">
+          <a href="#" id="logo-container" class="brand-logo">Portfolio</a>
+          <ul class="right hide-on-med-and-down">
+            <li><a href="../../#intro">About</a></li>
+            <li><a href="../../#work">Software</a></li>
+            <li><a href="../../#team">Games</a></li>
+            <li><a href="../../#contact">Contributions</a></li>
+            <li><a href="https://github.com/joashp/material-design-template" target="_blank">Contact</a></li>
+          </ul>
+          <ul id="nav-mobile" class="side-nav">
+            <li><a href="../../#intro">About</a></li>
+            <li><a href="../../#work">Software</a></li>
+            <li><a href="../../#team">Games</a></li>
+            <li><a href="../../#contact">Contributions</a></li>
+            <li><a href="https://github.com/joashp/material-design-template" target="_blank">Contact</a></li>
+          </ul>
+          <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+        </div>
+      </div>
+    </nav>
+  </div>

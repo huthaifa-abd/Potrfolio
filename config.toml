@@ -1,0 +1,6 @@
+baseurl = "http://example.org/"
+languageCode = "en-us"
+title = "Huthaifa-abd Portfolio"
+
+[Params]
+  Author = "Huthaifa A. Ahmed"
