@@ -3,12 +3,13 @@ title = "Multiplayer Gaming System"
 date = "2016-11-07T22:17:18+03:00"
 
 +++
-Application Overview
+##### Application Overview
 
-Game Sever Manager - Advanced Gaming Portal (ISP Grade)
+##### Technologies
+
 ASP.NET , C# , HTML, AJAX , Jquery , MSSQL , MVC , CSS , UDP Networking Protocols , Game Server APIS [Counter Strike , COD4 , MW4 , GTAV] , Powershell , IIS
 
-My Role :
+##### My Role :
 
 * Redesign the existing company gaming portal moving toward more dynamic design and database oriented software
 * Develop the game servers management control panel using udp communication protocol and integrate it with each game unique api system

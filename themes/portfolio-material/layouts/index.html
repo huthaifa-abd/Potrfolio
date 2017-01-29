@@ -30,15 +30,15 @@
           <a href="#" id="logo-container" class="brand-logo">Portfolio</a>
           <ul class="right hide-on-med-and-down">
             <li><a href="#intro">About</a></li>
-            <li><a href="#work">Software</a></li>
-            <li><a href="#team">Games</a></li>
-            <li><a href="#contact">Contributions</a></li>
-            <li><a href="https://github.com/joashp/material-design-template" target="_blank">Contact</a></li>
+            <li><a href="#software">Software</a></li>
+            <li><a href="#games">Games</a></li>
+            <li><a href="#contributions">Contributions</a></li>
+            <li><a href="#contact">Contact</a></li>
           </ul>
           <ul id="nav-mobile" class="side-nav">
             <li><a href="#intro">About</a></li>
-            <li><a href="#work">Software</a></li>
-            <li><a href="#team">Games</a></li>
+            <li><a href="#software">Software</a></li>
+            <li><a href="#games">Games</a></li>
             <li><a href="#contact">Contributions</a></li>
             <li><a href="https://github.com/joashp/material-design-template" target="_blank">Contact</a></li>
           </ul>
@@ -101,7 +101,7 @@
   </div>
 
   <!--Software-->
-  <div class="section scrollspy" id="work">
+  <div class="section scrollspy" id="software">
     <div class="container">
       <h2 class="header text_b">Software </h2>
       <div class="row">
@@ -119,7 +119,7 @@
     <div class="parallax"><img src="img/parallax2.png"></div>
   </div>
   <!--Games & Entertainment-->
-  <div class="section scrollspy" id="work">
+  <div class="section scrollspy" id="games">
     <div class="container">
       <h2 class="header text_b">Games & Entertainment  </h2>
       <div class="row">
@@ -147,6 +147,30 @@
         {{ .Render "summary-company"}}
         {{- end -}}
         {{ end }}
+
+                </div>
+                <div class="row">
+                <p style="background-color:red; color:white"> Estimated Spent Hours (a nice number counter)</p>
+                </div>
+                <div class="row">
+                <p style="background-color:red; color:white">Skills Pool (a fun animated chart)</p>
+                </div>
+              </div>
+            </div>
+
+            <!--Contributions -->
+            <div class="section scrollspy" id="contributions">
+              <div class="container">
+                <h2 class="header text_b"> Contributions (Opensource) </h2>
+                <div class=row>
+                  <p style="background-color:red; color:white"> Github Chart (Simple Monthly Chart showcasing contributions)</p>
+                </div>
+                <div class="row">
+                  {{ range .Data.Pages }}
+                  {{- if eq .Type "companies"}}
+                  {{ .Render "summary-company"}}
+                  {{- end -}}
+                  {{ end }}
 
                 </div>
               </div>

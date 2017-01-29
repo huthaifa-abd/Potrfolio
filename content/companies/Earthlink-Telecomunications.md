@@ -1,11 +1,10 @@
 +++
-title = "Earthlink Telecomunications"
+title = "Earthlink Telecom"
 draft = false
 date = "2016-12-05T22:26:33+03:00"
 logo = ""
 jobtitle="R&D Manager"
 +++
-
 
 ##### Current Position : Research and Development Manager
 
