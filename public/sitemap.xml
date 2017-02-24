@@ -2,13 +2,208 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2016-11-04T12:20:43+03:00</lastmod>
+    <loc>http://huthaifa-abd.com/</loc>
+    <lastmod>2016-12-05T22:27:55+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/good-to-great/</loc>
-    <lastmod>2016-11-04T12:20:43+03:00</lastmod>
+    <loc>http://huthaifa-abd.com/companies/Redlight-Development/</loc>
+    <lastmod>2016-12-05T22:27:55+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/companies/Softway-Gaming/</loc>
+    <lastmod>2016-12-05T22:27:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/companies/1Stepland/</loc>
+    <lastmod>2016-12-05T22:27:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/companies/Siemens/</loc>
+    <lastmod>2016-12-05T22:27:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/companies/Wild-Game-Arts/</loc>
+    <lastmod>2016-12-05T22:26:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/companies/Earthlink-Telecomunications/</loc>
+    <lastmod>2016-12-05T22:26:33+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/games-entertainment/Babylon-Adventures/</loc>
+    <lastmod>2016-11-07T23:30:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/contributions/github/</loc>
+    <lastmod>2016-11-07T23:30:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/games-entertainment/Wheels-of-Babylon/</loc>
+    <lastmod>2016-11-07T23:29:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/games-entertainment/Speedix-Last-Colony/</loc>
+    <lastmod>2016-11-07T23:28:45+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/games-entertainment/Lumberjack-in-space/</loc>
+    <lastmod>2016-11-07T23:27:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Hotel-Reservation-System/</loc>
+    <lastmod>2016-11-07T23:27:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Korek-Dealer-portal/</loc>
+    <lastmod>2016-11-07T23:27:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/ISP-Login-Portal/</loc>
+    <lastmod>2016-11-07T23:27:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Sanad-for-Peacebuilding-Profile/</loc>
+    <lastmod>2016-11-07T23:26:45+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/DROS-System/</loc>
+    <lastmod>2016-11-07T23:26:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Alshifa-Profile/</loc>
+    <lastmod>2016-11-07T23:23:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/AlItkan-Profile/</loc>
+    <lastmod>2016-11-07T23:15:21+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Ecommerce-Store/</loc>
+    <lastmod>2016-11-07T23:12:37+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Help-Desk-System/</loc>
+    <lastmod>2016-11-07T23:03:32+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/E-Government-Document-Archiving-Solution/</loc>
+    <lastmod>2016-11-07T22:35:52+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/E-Government-ID-Management/</loc>
+    <lastmod>2016-11-07T22:35:06+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/E-Government-Document-Management-Solution/</loc>
+    <lastmod>2016-11-07T22:34:19+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Video-Conference-Management-Solution/</loc>
+    <lastmod>2016-11-07T22:31:57+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Document-Management-Software/</loc>
+    <lastmod>2016-11-07T22:30:45+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Hajj-Omrah-Event-Registration-System/</loc>
+    <lastmod>2016-11-07T22:29:21+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/GPS-KML-Management/</loc>
+    <lastmod>2016-11-07T22:27:45+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Call-Center-Manager/</loc>
+    <lastmod>2016-11-07T22:26:50+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Scdp-Diary-Compny%E2%80%93Profile/</loc>
+    <lastmod>2016-11-07T22:26:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Hotel-Management-Solution/</loc>
+    <lastmod>2016-11-07T22:24:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/SCIS-TicketSystem/</loc>
+    <lastmod>2016-11-07T22:22:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Event-Registration/</loc>
+    <lastmod>2016-11-07T22:22:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Unified-ID-Management-Solution/</loc>
+    <lastmod>2016-11-07T22:21:12+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Earthlink-CMS/</loc>
+    <lastmod>2016-11-07T22:20:12+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/TV-Media-Service/</loc>
+    <lastmod>2016-11-07T22:19:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/HR-Management-System/</loc>
+    <lastmod>2016-11-07T22:18:21+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/games-entertainment/Multiplayer-Gaming-System/</loc>
+    <lastmod>2016-11-07T22:17:18+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/Earthlink-Telecommunications%E2%80%93Profile/</loc>
+    <lastmod>2016-11-07T22:16:24+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/LMS-Manifest-System/</loc>
+    <lastmod>2016-11-07T22:13:13+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://huthaifa-abd.com/software/zainDos207/</loc>
+    <lastmod>2016-11-04T20:42:19+03:00</lastmod>
   </url>
   
 </urlset>
