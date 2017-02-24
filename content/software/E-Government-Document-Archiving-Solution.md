@@ -4,11 +4,13 @@ title = "E-Gov Document Archiving"
 
 +++
 
-Application Overview
-
-Thin Clients, Windows Server , DC , RODC , VDI ,ASP.NET , C# , HTML, AJAX , Jquery , CSS , MSSQL , LINQ , MVC , Telerik Tools , IIS,Powershell , Entity Framework , Winforms
+##### Application Overview
 
 Archiving System serves as general electronic archiving application along with some specific modules and built in hardware integration it features fully functional archiving - document management system ,the desktop application provides an easy to use interface and has a dedicated back end software deployed on multiple servers to ensure data consistency and provide historical provisioning .
+
+Technologies :
+
+Thin Clients, Windows Server , DC , RODC , VDI ,ASP.NET , C# , HTML, AJAX , Jquery , CSS , MSSQL , LINQ , MVC , Telerik Tools , IIS,Powershell , Entity Framework , Winforms
 
 ##### My Role :
 1. Provide the initial plan regarding the project development , assist in development team recruitment and tasks assignments
@@ -19,3 +21,11 @@ Archiving System serves as general electronic archiving application along with s
 * Deploy the system in specified government data-centers and configure the windows servers
 * Administer the government data-centers configuring DC , RODC - IIS , and VDI Services
 * Provide training for the IT Team in Charge
+
+##### Features
+1. Document Management Tools (Create / Share / Archive)
+* Desktop / Web Interfaces
+* Data Provisioning
+* Thin Client Access Modules
+* Windows VDI Compatible
+* Secure Document Signing

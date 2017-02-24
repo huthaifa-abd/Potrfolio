@@ -8,8 +8,7 @@ date = "2016-11-07T23:26:45+03:00"
 
 A highly customizable cms system , developed to serve as company profile website , the web application is  based on Wordpress and opensource solution which allows for fast response time and rich dynamic content easy edit and update , along with real time news update and an advance control panel to manage the site content and information .
 
-#### Technology Overview
-
+Technologies:
 PHP , Wordpress , MySql
 
 ##### My Role :

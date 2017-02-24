@@ -3,6 +3,12 @@ date = "2016-11-07T23:27:36+03:00"
 title = "Hotel Reservation System"
 
 +++
+
+##### Application Overview
+
+Dedicated hotel reservation solution plugin to be added to a public WordPress website to manage customers reservations and service requests .
+
+Technologies : 
 PHP , Apache , HTML, Jquery , CSS , Wordpress
 
 ##### My Role :

@@ -17,3 +17,6 @@ ASP.NET , C# , HTML, AJAX , Jquery , MSSQL , MVC , CSS , UDP Networking Protocol
 * Continue to improve and support new multiplayer games and provide new features in the administration panel
 * Unit Testing - Deployment - Staff Training
 * Planning the implementation of a new cloud bases gaming system similar to giaka and onlive using custom virtual environment
+
+##### Platforms
+Platforms : Cross Platform

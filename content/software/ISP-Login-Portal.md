@@ -4,8 +4,11 @@ date = "2016-11-07T23:27:04+03:00"
 
 +++
 
-Application Overview
+##### Application Overview
 
+Hotspot Landing page to display general information about the company and present users with a friendly login interfaces
+
+Technologies:
 PHP , HTML5  , CSS , Javascript
 
 ##### My Role :
@@ -14,6 +17,6 @@ PHP , HTML5  , CSS , Javascript
 * Plan , Develop application Front-end best practices and the latest desktop technologies.
 * Continue to develop and improve the software as new feature requests and client needs arise
 
-### Features
-1. Basic Advertisment Functionality
-* Basic Login Functionality
+##### Features
+1. Basic Advertisement Functionality
+* Basic User Management Functionality

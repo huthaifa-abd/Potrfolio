@@ -4,8 +4,11 @@ title = "Korek Dealer portal"
 
 +++
 
-Application Overview
+##### Application Overview
 
+A Desktop application which allows users to easily manage and edit customers information through Korek Dealer Portal
+
+Technologies: 
 C# , Winforms , MSSQL , MVC , Telerik Tools
 
 ##### My Role :
