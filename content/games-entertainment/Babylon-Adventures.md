@@ -5,7 +5,7 @@ date = "2016-11-07T23:30:04+03:00"
 +++
 
 ##### About the game
-Breathtaking 3d Platformer in the anicent city of Babylon where the player venture in to the land to find the ancient treasure lost
+Breathtaking 3d Platformer in the ancient city of Babylon where the player venture in to the land to find the ancient treasure lost
 decades ago.
 
 ##### Technologies
